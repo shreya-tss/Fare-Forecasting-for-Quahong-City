@@ -20,9 +20,9 @@ Used the Holt Winters Model for forecasting the usage of Holt Winters Model is j
 * Holt-Winters also accounts for the trend in the data. If the data has a consistent upward or downward trend (e.g., increasing fares over time), the trend component in Holt-Winters helps model this aspect and make forecasts accordingly.
 
 ## Result 
-sMAPE for Bike: 16
-sMAPE for Auto: 16
-sMAPE for Car: 0
-Overall sMAPE: 11
+* sMAPE for Bike: 16
+* sMAPE for Auto: 16
+* sMAPE for Car: 0
+* Overall sMAPE: 11
 
   
