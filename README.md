@@ -18,4 +18,6 @@ Used the Holt Winters Model for forecasting the usage of Holt Winters Model is j
 
 2. Incorporation of Trend
 * Holt-Winters also accounts for the trend in the data. If the data has a consistent upward or downward trend (e.g., increasing fares over time), the trend component in Holt-Winters helps model this aspect and make forecasts accordingly.
+
+
   
