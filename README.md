@@ -1,5 +1,5 @@
 # Data-Analytics--UE22CS342AA2 Hackathon 
-
+https://www.kaggle.com/competitions/data-analytics-ue-22-cs-342-aa-2-hackathon-2/data
 ## About the dataset 
 RideWave, a versatile urban mobility service, has been operating in Quahog City for the past five years. The company offers three types of vehicles: bikes, autos (three-wheeled vehicles), and cars. As they face increasing competition, RideWave wants to leverage its historical data to optimize pricing strategies for each vehicle type in Quahog City.
 
